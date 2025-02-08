@@ -1,6 +1,6 @@
 # Cyber-Threat-Detection---NLP
 
-**Introduction : **
+*Introduction : *
 
 According to the latest estimates, over 300 million terabytes of data are created every day and these numbers are increasing by the year as we witness more technological advancements. Ever since the proclamation that “The world’s most valuable resource is no longer oil, but data”, cyber attackers have been unrelenting in their attempts to seize this data for nefarious purposes. Much of this data existing on the cloud consists of text, often unstructured. Given NLP’s primary focus on extracting valuable insights from text data, there is a lot of potential in this field for mitigating cyber threats.
 
